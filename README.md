@@ -1,0 +1,3 @@
+# SQL Undefined Variable Bug
+
+This repository demonstrates a common error in SQL: using an undefined variable within a SELECT statement.  The `bug.sql` file contains the erroneous query, while `bugSolution.sql` shows the corrected version. This is a frequent mistake, especially for developers transitioning from procedural languages where variable scoping is handled differently.  Understanding the correct way to use variables and parameters in SQL queries is crucial to avoid unexpected behavior and ensure data integrity.
